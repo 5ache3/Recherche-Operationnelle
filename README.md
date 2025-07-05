@@ -120,5 +120,3 @@ Après installation, la commande `typst` doit être accessible dans votre termin
 - Les scripts sont principalement destinés à l'enseignement ou à la démonstration de méthodes de Recherche Opérationnelle.
 
 ---
-
-**N'hésitez pas à adapter ce README selon vos besoins spécifiques ou à demander une version plus détaillée pour chaque module !** 
